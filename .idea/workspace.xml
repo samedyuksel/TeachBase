@@ -1,9 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52d027cd-a9a3-4b77-917c-cb03c31257fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/models/author.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/models/course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/models/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/services/authorService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/backend/services/userService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeacherBase/frontend/angularUi/frontend/angularUi/src/test.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iqAAB0Vy4aGtPhLV4SIWtyxnaz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d027cd-a9a3-4b77-917c-cb03c31257fb" name="Default Changelist" comment="" />
+      <created>1602624603592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602624603592</updated>
+      <workItem from="1602624616787" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
 </project>
