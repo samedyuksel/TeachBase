@@ -1,0 +1,10 @@
+<header>
+  <div class="log">
+    <button mat-raised-button color="secondary" routerLink="/login" *ngIf="!log">Login</button>
+    <button mat-raised-button (click)="logOut()" color="warn" *ngIf="log">Logout</button>
+  </div>
+</header>
+<div class="alert alert-secondary" role="alert">
+  Welcome to the Teach Base! <button mat-stroked-button (click)="goAuthorPage()">Check the teachers</button>
+  <div><mat-error *ngIf="hide">{{message}}</mat-error></div>
+</div>

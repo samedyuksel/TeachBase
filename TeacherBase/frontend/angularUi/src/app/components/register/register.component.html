@@ -1,0 +1,38 @@
+<body>
+  <form class="form-group">
+    <div class="formdiv">
+      <div>
+        <mat-form-field appearance="fill">
+          <mat-label>Enter your name</mat-label>
+          <input [(ngModel)]="registerUser.firstName" matInput placeholder="name" [formControl]="require" required name="name">
+          <mat-error *ngIf="require.invalid">{{getErrorMessage()}}</mat-error>
+        </mat-form-field>
+      </div>
+      <div>
+        <mat-form-field appearance="fill">
+          <mat-label>Enter your surname</mat-label>
+          <input [(ngModel)]="registerUser.lastName" matInput placeholder="surname" [formControl]="require" required name="surname">
+          <mat-error *ngIf="require.invalid">{{getErrorMessage()}}</mat-error>
+        </mat-form-field>
+      </div>
+      <div>
+        <mat-form-field appearance="fill">
+          <mat-label>Enter your email</mat-label>
+          <input [(ngModel)]="registerUser.email" matInput placeholder="pat@example.com" [formControl]="email" required name="email">
+          <mat-error *ngIf="email.invalid">{{getErrorMessage()}}</mat-error>
+        </mat-form-field>
+      </div>
+      <div>
+        <mat-form-field appearance="fill">
+          <mat-label>Enter your password</mat-label>
+          <input [(ngModel)]="registerUser.password" matInput [type]="hide ? 'password' : 'text'" [formControl]="require" name="password">
+          <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+            <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+          </button>
+          <mat-error *ngIf="require.invalid">{{getErrorMessage()}}</mat-error>
+        </mat-form-field>
+      </div>
+      <button type="submit" (click)="register(registerUser)" mat-raised-button color="primary">Sign in</button>
+    </div>
+  </form>
+</body>
