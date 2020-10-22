@@ -3,5 +3,5 @@
 This is a simple project to show how to use _Node.js_ and _Angular_ with MongoDB for full stack development.
 
 ![](gifs/logError.gif)
-![](gifs/login)
-![](gifs/list)
+![](gifs/login.gif)
+![](gifs/list.gif)
