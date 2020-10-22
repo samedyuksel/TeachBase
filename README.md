@@ -2,4 +2,6 @@
 # Teach Base
 This is a simple project to show how to use _Node.js_ and _Angular_ with MongoDB for full stack development.
 
-![](gifs/logError)
+![](gifs/logError.gif)
+![](gifs/login)
+![](gifs/list)
